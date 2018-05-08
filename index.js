@@ -9,7 +9,6 @@ function yourAnimal() {
   // and the above function both pass?
   return animal
 }
-animal()();
 
 function add2(n) {
   const two = 2
